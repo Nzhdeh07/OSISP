@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+Z:\Downloads\Osisp\lab1\Project1\Project1\Project1.cpp(64,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\Downloads\Osisp\lab1\Project1\Project1\Project1.cpp(145,40): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  Project1.vcxproj -> Z:\Downloads\Osisp\lab1\Project1\ARM64\Debug\Project1.exe
